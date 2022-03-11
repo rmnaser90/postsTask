@@ -1,0 +1,39 @@
+h2{
+    color: red;
+}
+.unique{
+    color: aqua;
+}
+#superUnique{
+    color: blueviolet;
+}
+
+.dynamic{
+    width: 200px;
+    height: 200px;
+    background-color: brown;
+}
+
+.red{
+    color: red;
+}
+
+.hide{
+    display: none;
+}
+#myInput{
+    width: 400px;
+    height: 300px;
+    background-color: cornflowerblue;
+    font-size: larger;
+}
+#myBtn{
+    width: 100px;
+    height: 50px;
+    cursor: pointer;
+}
+
+#myBtn:hover{
+    background-color: crimson;
+    color: white;
+}
