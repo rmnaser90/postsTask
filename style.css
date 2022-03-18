@@ -37,3 +37,28 @@ h2{
     background-color: crimson;
     color: white;
 }
+.postsContainer{
+    margin-top: 20px;
+    width: 100%;
+    display: grid;
+    grid-template-columns: 1fr;
+    align-items: center;
+    justify-items: center;
+    row-gap: 20px;
+}
+.postContainer{
+    width: 90%;
+    border: 1px solid black;
+    display: grid;
+    align-items: center;
+    justify-items: center;
+}
+.actionsContainer{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    align-items: center;
+    justify-items: center;
+}
+.likeBtn{
+    cursor: pointer;
+}
